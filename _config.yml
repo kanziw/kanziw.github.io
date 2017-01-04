@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Kanziw's Blog
+tagline:      잡다한 블로그
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       kanziw
+  url:        https://kanziw.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
