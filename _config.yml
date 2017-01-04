@@ -11,6 +11,19 @@ author:
 
 disqus: kanziw
 
+# Tag
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+
 # Gems
 gems:
   - jekyll-paginate

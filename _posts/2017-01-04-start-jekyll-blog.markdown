@@ -1,8 +1,9 @@
 ---
 layout: default
 title:  "Jekyll 시작하기 (Max OS)"
-date:   2017-01-04 11:50:00 UTC 0
+date:   2017-01-04 00:00:00
 categories: blog
+tags: [jekyll]
 ---
 
 # Jekyll 시작하기 (Max OS)
@@ -43,6 +44,7 @@ $ bundle install
 
 ## Start Server in Local
 http://localhost:4000 으로 접속하여 로컬에서도 확인할 수 있다.
+
 ```
 $ cd ~/dev/kanziw.github.io
 $ jekyll serve --watch
