@@ -9,6 +9,8 @@ author:
   name:       kanziw
   url:        https://kanziw.github.io
 
+disqus: kanziw
+
 # Gems
 gems:
   - jekyll-paginate
