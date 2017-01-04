@@ -11,6 +11,7 @@ tags: [jekyll]
 
 ## _config.yml 파일 수정
 아래의 내용을 추가한다.
+
 ```
 collections:
   tags:
