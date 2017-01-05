@@ -8,7 +8,7 @@ description: Jekyll 으로 개발자스러운 블로그 운영하기
 comments: true
 ---
 
-# 들어가며...
+## 들어가며...
 요즘 개발자들은 아래의 특징들이 있다고 생각한다.
 
 * Markdown 문법을 이용한 글쓰기
@@ -23,7 +23,7 @@ comments: true
 * Category / Tag 별로 글을 볼 수 있다.
 <br />
 
-### Jekyll + Github 를 이용한 블로그 시작
+## Jekyll + Github 를 이용한 블로그 시작
 Jekyll + Github 를 이용한 블로그 생성의 순서는 대충 아래와 같다.
 
 ### 1. ID.github.io 생성
