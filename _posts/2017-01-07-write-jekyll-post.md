@@ -32,7 +32,9 @@ Windows 를 쓰던 시절에도 어디서나 자유롭게 쓸 수 있는 메모�
 즉 한번 배우면 많은 곳에서 잘 활용할 수 있는 것이다.
 
 ### dbyll 테마의 블로그에서 포스트 작성하기.
+
 #### 파일은 `_posts` 디렉터리 밑에 `YYYY-MM-DD-POST_TITLE.md` 형식으로!
+
 #### 글쓰기
 dbyll 테마는 카테고리/태그 별로 글을 모아서 볼 수 있게 해준다.
 그러기 위해선 post의 시작을 아래와 같이 해야한다.
@@ -50,6 +52,7 @@ comments: true
 ```
 
 각 항목들에 대한 설명은 아래와 같다.
+
 * layout
   * 어떠한 html layout 을 적용 할 것인가?
   * dbyll 테마는 _layouts 디렉터리 밑에 있는 post.html 을 사용하여 글을 포스팅한다.
@@ -69,5 +72,3 @@ comments: true
 * comments
   * disqus 를 이용한 댓글을 허용 할 것인가?
   * 사용하기 위해선 [링크](https://disqus.com/) 에서 disqus 를 추가해 `_config.yml` 에 `disqus: DISQUS_NAME`을 추가한다.
-
-
