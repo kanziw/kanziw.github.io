@@ -2,7 +2,7 @@
 layout: post  
 title: Jekyll 시작하기 (Max OS)  
 date: 2017-01-05 00:00:00  
-categories: blog  
+categories: [blog, jekyll]
 tags: [jekyll, dbyll]  
 description: Jekyll 으로 개발자스러운 블로그 운영하기  
 comments: true
