@@ -1,0 +1,38 @@
+{
+  "name": "kanziw.github.io",
+  "version": "1.0.0",
+  "description": "Blog of Kanziw",
+  "main": "./_codes/run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "watch": "bundle exec jekyll serve --watch",
+    "open": "open http://localhost:4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanziw/kanziw.github.io.git"
+  },
+  "keywords": [
+    "kanziw",
+    "javascript"
+  ],
+  "author": "kanziw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanziw/kanziw.github.io/issues"
+  },
+  "homepage": "https://kanziw.github.io",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.1.6",
+    "babel-preset-latest": "^6.16.0",
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}
