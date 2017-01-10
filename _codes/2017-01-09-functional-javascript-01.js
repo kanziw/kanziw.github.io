@@ -79,6 +79,18 @@ export default (function (di) {
 
 
   //===
+  function comparator(pred) {
+    return (x, y) => truthy(pred(x, y)) ? -1 : (truthy(pred(y, x)) ? 1 : 0);
+  }
+
+  function lessOrEqual(x, y) {
+    return x <= y;
+  }
+
+  console.log([100, 1, 0, 10, -1, 2, -11].sort(comparator(lessOrEqual)));
+
+
+  //===
   function lameCSV(str) {
     return str.split('\n').reduce((table, row) => {
       table.push(row.split(',').map(c => c.trim()));
@@ -101,9 +113,12 @@ export default (function (di) {
     return _.rest(_.map(table, row => nth(row, 2)));
   }
 
+  const mergeResults = _.zip;
+
   console.log(selectName(peopleTable));
   console.log(selectAges(peopleTable));
   console.log(selectHairColor(peopleTable));
+  console.log(mergeResults(selectName(peopleTable), selectAges(peopleTable)));
 
 
   //===
@@ -115,7 +130,6 @@ export default (function (di) {
   function truthy(x) {
     return x !== false && existy(x);
   }
-
 
   function doWhen(cond, action) {
     return truthy(cond) ? action() : undefined;
