@@ -6,7 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: kanziw
-google_analytics: kanziw_google_analytics
+google_analytics: UA-90109715-1
+google_analytics_user_id_report: 137709725
 title: Kanziw's Blog
 timezone: Asia/Seoul
 
