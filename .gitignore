@@ -6,3 +6,4 @@ Gemfile.lock
 .idea/
 *Thumbs.db
 node_modules/
+npm-debug.log*
