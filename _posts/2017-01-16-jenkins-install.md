@@ -4,7 +4,7 @@ title: Jenkins 시작하기 (on Ubuntu)
 date: 2017-01-16 00:00:00
 categories: [tools, jenkins]
 tags: [jenkins, install]
-comments: false
+comments: true
 description: Ubuntu 에 Jenkins 설치하기
 ---
 
