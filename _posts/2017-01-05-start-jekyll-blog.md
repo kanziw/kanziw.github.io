@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Jekyll 시작하기 (Max OS)  
+title: Jekyll 시작하기 (macOS)  
 date: 2017-01-05 00:00:00  
 categories: [blog, jekyll]
 tags: [jekyll, dbyll]  
