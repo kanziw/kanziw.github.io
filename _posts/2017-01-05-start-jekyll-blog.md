@@ -34,6 +34,7 @@ Jekyll + Github 를 이용한 블로그 생성의 순서는 대충 아래와 같
 ```
 $ curl -sSL https://get.rvm.io | bash -s stable --ruby
 $ . ~/.rvm/scripts/rvm
+$ rvm install 2.3.1
 ```
 
 ### 3. jekyll & bundle Install
