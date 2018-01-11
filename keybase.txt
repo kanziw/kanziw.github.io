@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kanziw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kanziw.github.io
+  * I am kanziw (https://keybase.io/kanziw) on keybase.
+  * I have a public key ASBMq7ktdYLlqFZuKFSrsKqLTEOklozGWnDyaJF-C03hJAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb47209ebba17308c5d7609b632f679644233700b40abd92f31d4ca4f18f9eba0a",
+      "host": "keybase.io",
+      "kid": "01204cabb92d7582e5a8566e2854abb0aa8b4c43a4968cc65a70f268917e0b4de1240a",
+      "uid": "1c8b080c7b9b2d3c166f015ec94ad519",
+      "username": "kanziw"
+    },
+    "merkle_root": {
+      "ctime": 1515676417,
+      "hash": "4c910de03152a11ddfb995a72c53273345880d5c3c842e5e8c31f3b3fccf26933fd940c0430a7a13f857066f244c2fceb4c058d323cef695ed1469e053e3ae58",
+      "hash_meta": "bdd5c2edfa893518d7ae122262ec81cf64da70ed1eca3d0857da2d9fb38e5ff9",
+      "seqno": 1914854
+    },
+    "service": {
+      "hostname": "kanziw.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515676436,
+  "expire_in": 504576000,
+  "prev": "5d7f2831c47b67ef506df2308ce56a21b6bdc975976a7201205be3982325c77a",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTKu5LXWC5ahWbihUq7Cqi0xDpJaMxlpw8miRfgtN4SQKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2I0NzIwOWViYmExNzMwOGM1ZDc2MDliNjMyZjY3OTY0NDIzMzcwMGI0MGFiZDkyZjMxZDRjYTRmMThmOWViYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGNhYmI5MmQ3NTgyZTVhODU2NmUyODU0YWJiMGFhOGI0YzQzYTQ5NjhjYzY1YTcwZjI2ODkxN2UwYjRkZTEyNDBhIiwidWlkIjoiMWM4YjA4MGM3YjliMmQzYzE2NmYwMTVlYzk0YWQ1MTkiLCJ1c2VybmFtZSI6ImthbnppdyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTY3NjQxNywiaGFzaCI6IjRjOTEwZGUwMzE1MmExMWRkZmI5OTVhNzJjNTMyNzMzNDU4ODBkNWMzYzg0MmU1ZThjMzFmM2IzZmNjZjI2OTMzZmQ5NDBjMDQzMGE3YTEzZjg1NzA2NmYyNDRjMmZjZWI0YzA1OGQzMjNjZWY2OTVlZDE0NjllMDUzZTNhZTU4IiwiaGFzaF9tZXRhIjoiYmRkNWMyZWRmYTg5MzUxOGQ3YWUxMjIyNjJlYzgxY2Y2NGRhNzBlZDFlY2EzZDA4NTdkYTJkOWZiMzhlNWZmOSIsInNlcW5vIjoxOTE0ODU0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Imthbnppdy5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNTY3NjQzNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1ZDdmMjgzMWM0N2I2N2VmNTA2ZGYyMzA4Y2U1NmEyMWI2YmRjOTc1OTc2YTcyMDEyMDViZTM5ODIzMjVjNzdhIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAPGU/oTPfN7eP7NBmiCmiJsIrjqzEgfaX818tMVFVZpUnJOCDd31dBRP6wGI0gWPpztJSnHb9jqLsuPoJTmhwCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDhjM44rWaNUu2FUvhABJpIbUoC/KFPoobsr1uCDXDSmqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kanziw
+
+==================================================================
