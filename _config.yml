@@ -26,7 +26,7 @@ author:
 #  twitter: dbtek
 #  pinterest: asd123
 #  linkedin: asd123
-#  bio: What Whould Jesus Do!
+#  bio: What Would Jesus Do!
   email_md5: 7bae67f605fc247bf66eb34507c914d6
 
 rss_path: feed.xml
@@ -36,6 +36,7 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
+#BASE_PATH: http://localhost:4000
 BASE_PATH: https://kanziw.dev
 
 gems:
