@@ -3,6 +3,6 @@ layout: default
 ---
 {% include post.html %}
 
-{% if site.disqus and page.comments %}
-    {% include disqus.html %}
+{% if page.comments %}
+    {% include utterances.html %}
 {% endif %}
